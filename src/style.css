@@ -26,6 +26,19 @@ h3 {
   display: block;
 }
 
+p {
+  background: #f5f2fe;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+a.back-to-homepage {
+  color: #d097ff;
+}
+
 .contact-me {
   background-color: #6c63ff;
   color: #fff;
@@ -49,4 +62,10 @@ h3 {
 
 .email-link {
   color: #6c63ff;
+}
+
+.about-paragraphs {
+  margin: 30px 0;
+  display: flex;
+  justify-content: space-around;
 }
