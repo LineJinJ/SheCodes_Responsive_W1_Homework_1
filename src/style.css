@@ -46,3 +46,7 @@ h3 {
   text-decoration: none;
   text-transform: capitalize;
 }
+
+.email-link {
+  color: #6c63ff;
+}
